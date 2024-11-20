@@ -17,3 +17,7 @@ conda activate interview
 3. git commit -m "readme updated"
 4. git push origin main
 ```
+3. Install Requirements
+```bash
+pip install -r requirements.txt
+```
